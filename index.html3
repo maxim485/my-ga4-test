@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GA4 Test</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5XLZ301B2T"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-5XLZ301B2T');
+    </script>
+</head>
+<body>
+    <h1>Ура! GA4 работает!</h1>
+    <p>Сайт создан для тестирования Google Analytics</p>
+</body>
+</html>
